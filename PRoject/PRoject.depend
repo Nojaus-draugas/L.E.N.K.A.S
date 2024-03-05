@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709620725 source:c:\users\gabijus\documents\paulius petroðius iiid\project\main.cpp
+	<iostream>
+	<time.h>
+	<vector>
+	<cstdlib>
+	<fstream>
+
